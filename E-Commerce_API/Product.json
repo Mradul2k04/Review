@@ -1,0 +1,16 @@
+{
+    "100": {
+        "name": "T-Shirt",
+        "description": "US-Polo",
+        "price": 650.0,
+        "stock": 50,
+        "category": "clothing"
+    },
+    "101": {
+        "name": "Laptop",
+        "description": "Acer Laptop",
+        "price": 50000.0,
+        "stock": 10,
+        "category": "electronics"
+    }
+}
